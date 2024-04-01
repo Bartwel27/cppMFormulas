@@ -15,6 +15,7 @@ square(3.20);
 ```
 
 **_Rectangle function_**
+
 *formula*
 > A = bh
 The rectangle function is that accepts 2 parameters wich are base and height and returns the Area of a shape when passed
