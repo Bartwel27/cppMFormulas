@@ -1,3 +1,3 @@
 # cppMFormulas
 A cpp file program, filled with math formulas defined in cpp language Function
-![image](https://media.geeksforgeeks.org/wp-content/uploads/20230428112324/maths-formula-chart-05-05-05-copy.webp)
+![image](https://qph.cf2.quoracdn.net/main-qimg-829d548ce6e53cf79e9aed5586e1ca66-lq)
