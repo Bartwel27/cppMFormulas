@@ -28,3 +28,5 @@ rectangle(36,2);
 ```triangle(2,4); A = 1 / 2 * bh```
 ```circle(3); A = πr^2```
 ```ellipes(2,2); A = πab```
+
+@tafaraThedev
