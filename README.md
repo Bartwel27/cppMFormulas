@@ -13,6 +13,7 @@ The square function is a function that need a side as its only parameter and ret
 ```
 square(3.20); 
 ```
+![Screenshot_20240401-230853_2](https://github.com/Bartwel27/cppMFormulas/assets/81015407/137d2764-2d82-4121-8c1f-e9369389f6da)
 
 ```rectangle(36,2); A = bh```
 ```parallelogram(2,2); A = bh```
