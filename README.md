@@ -29,4 +29,3 @@ rectangle(36,2);
 ```circle(3); A = πr^2```
 ```ellipes(2,2); A = πab```
 
-@tafaraThedev
