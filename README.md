@@ -4,7 +4,7 @@ A cpp file program filled with math formulas defined in cpp language Functions a
 
 ## 2D shapes
 ### Square function
-** A = S^s **
+__ * A = S² * __
 ```
 square(3.20); 
 ```
