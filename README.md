@@ -5,7 +5,8 @@ A cpp file program filled with math formulas defined in cpp language Functions a
 
 ## 2D shapes
 **_Square function_**
-Formula 
+
+*Formula*
 > A = S²
 
 The square function is a function that need a side as its only parameter and returns the Area of a shape when multiplied by its own value and returns the area as in double data type
