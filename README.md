@@ -72,7 +72,7 @@ circle(NULL,3);
 
 The Ellipse function calculates the area of a ellipse shape, and takes 3 parameters.
 ```
-ellipes(2,2);
+ellipes(NULL,2,2);
 ```
 
 
@@ -83,4 +83,4 @@ ellipes(2,2);
 > Use ```NULL``` as a parameter to find its value.
 
 >[!WARNING]
->Dont give every parameter a value to avoid false return outputs, You use the NULL value on a parameter to find a value of a same param.
+>Dont give all parameters values of a function to avoid false return outputs, You use the NULL value on a parameter to find a value of a same param.
