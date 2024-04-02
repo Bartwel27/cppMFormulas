@@ -84,3 +84,14 @@ ellipes(NULL,2,2);
 
 >[!WARNING]
 >Dont give all parameters values of a function to avoid false return outputs, You use the NULL value on a parameter to find a value of a same param.
+
+
+
+### Installation
+```
+git clone https://github.com/bartwel27/cppMFormulas/
+```
+_or_
+```
+wget https://bartwel27.github.io/cppMFormulas/mathformulas.cpp
+```
