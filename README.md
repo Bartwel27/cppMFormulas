@@ -1,4 +1,4 @@
-![IMG_20240402_133609_264](https://github.com/Bartwel27/cppMFormulas/assets/81015407/63d12f61-5aa9-458c-bbe6-a05b97be4c16)# cppMFormulas
+# cppMFormulas
 A cpp program filled with math formulas defined in functions and outputs returnable values, parameters are used to find a value of a formula, if a parameter has ```NULL``` value then it will find the ```NULL``` param given.
 
 ![image](https://articles.outlier.org/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fkj4bmrik9d6o%2F3Rn6lXm78lGNHpOBTl2K4r%2F9fcf9eaaaf131575f56bd6a8ba29dbdc%2FNormal_Distribution_05.png&w=3840&q=75)
@@ -39,8 +39,6 @@ parallelogram(NULL,2,2);
 *formula:*
 > A = (a+b)h/2
 The trapezoid function is a function that calculates the area of a trapezoid, basically is a quadrilateral that has at least one pair of parallel sides. The parallel sides are called the bases of the trapezoid. The trapezoid function takes 4 parameters.
-> ![Uploading IMG_20240402_133609_264.jpg…()
-]
 ```
 trapezoid(NULL,2,3,3);
 ```
