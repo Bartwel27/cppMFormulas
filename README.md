@@ -19,9 +19,9 @@ square(3.20);
 *formula*
 > A = bh
 
-The rectangle function is that accepts 2 parameters wich are base and height and returns the Area of a shape when passed
+The rectangle function is used to find the area of a rectangle, it takes 3 parametres and the first param is ```A```, second param ```b``` nand third param is ```h```. if two paramatres are given a value, the function will use those values to find the other parameter.
 ``` 
-rectangle(36,2);
+rectangle(NULL,36,2);
 ```
 ```parallelogram(2,2); A = bh```
 ```trapezoid(2,3,3); A = (a+b)h/2```
