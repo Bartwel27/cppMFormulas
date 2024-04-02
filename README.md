@@ -93,7 +93,13 @@ For entire Folder 📂
 git clone https://github.com/bartwel27/cppMFormulas/
 ```
 _or_
-For file only
+
+For file only 🗃️
 ```
 wget https://bartwel27.github.io/cppMFormulas/mathformulas.cpp
+```
+
+#### Include in your project
+```
+#include <mathformulas>
 ```
