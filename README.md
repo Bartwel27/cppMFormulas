@@ -39,5 +39,5 @@ parallelogram(NULL,2,2);
 
 
 
-![TIP]
+>[!TIP]
 > Use ```NULL``` as a parameter to find its value.
