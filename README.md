@@ -29,6 +29,7 @@ rectangle(NULL,36,2);
 
 *formula:*
 > A = bh
+
 The parallelogram function is much similar to the rectangle function as they both accept 3 parameters and uses them to find the area of a rectangle
 ```
 parallelogram(NULL,2,2);
@@ -38,6 +39,7 @@ parallelogram(NULL,2,2);
 
 *formula:*
 > A = (a+b)h/2
+
 The trapezoid function is a function that calculates the area of a trapezoid, basically is a quadrilateral that has at least one pair of parallel sides. The parallel sides are called the bases of the trapezoid. The trapezoid function takes 4 parameters.
 ```
 trapezoid(NULL,2,3,3);
@@ -47,6 +49,7 @@ trapezoid(NULL,2,3,3);
 
 *formula:*
 > A = 1 / 2 * bh
+
 The triangle function calculates the area of a triangle and takes 3 parameters.
 ```
 triangle(NULL,2,4);
@@ -56,6 +59,7 @@ triangle(NULL,2,4);
 
 *formula:*
 > A = πr²
+
 The circle function calculates the area of a circle and accepts 2 parametres.
 ```
 circle(NULL,3);
@@ -65,6 +69,7 @@ circle(NULL,3);
 
 *formula:*
 > A = πab
+
 The Ellipse function calculates the area of a ellipse shape, and takes 3 parameters.
 ```
 ellipes(2,2);
@@ -78,5 +83,4 @@ ellipes(2,2);
 > Use ```NULL``` as a parameter to find its value.
 
 >[!WARNING]
->Dont give every paramtre a value, otherwise it wont fineld anything, comsidering the use of these function is to find a parameter using other parameters, so please dont give very parameter a value, maight course system error
-
+>Dont give every parameter a value to avoid false return outputs, You use the NULL value on a parameter to find a value of a same param.
