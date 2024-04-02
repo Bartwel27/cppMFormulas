@@ -42,9 +42,33 @@ The trapezoid function is a function that calculates the area of a trapezoid, ba
 ```
 trapezoid(NULL,2,3,3);
 ```
-```triangle(2,4); A = 1 / 2 * bh```
-```circle(3); A = πr^2```
-```ellipes(2,2); A = πab```
+
+**_triangle function_**
+
+*formula:*
+> A = 1 / 2 * bh
+The triangle function calculates the area of a triangle and takes 3 parameters.
+```
+triangle(NULL,2,4);
+```
+
+**_circle function_**
+
+*formula:*
+> A = πr²
+The circle function calculates the area of a circle and accepts 2 parametres.
+```
+circle(NULL,3);
+```
+
+**_ellipse function_**
+
+*formula:*
+> A = πab
+The Ellipse function calculates the area of a ellipse shape, and takes 3 parameters.
+```
+ellipes(2,2);
+```
 
 
 
