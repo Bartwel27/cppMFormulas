@@ -39,5 +39,11 @@ parallelogram(NULL,2,2);
 
 
 
->[!TIP]
+
+
+>[!NOTE]
 > Use ```NULL``` as a parameter to find its value.
+
+>[!WARNING]
+>Dont give every paramtre a value, otherwise it wont fineld anything, comsidering the use of these function is to find a parameter using other parameters, so please dont give very parameter a value, maight course system error
+
