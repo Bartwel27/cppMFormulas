@@ -1,5 +1,5 @@
 # cppMFormulas
-A cpp program filled with math formulas defined in functions and outputs returnable values, parameters are used to find a value of a formula, if parameter has ```null``` value then it will find the not empty string parameter.
+A cpp program filled with math formulas defined in functions and outputs returnable values, parameters are used to find a value of a formula, if a parameter has ```null``` value then it will find the ```null``` param given.
 
 ![image](https://articles.outlier.org/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fkj4bmrik9d6o%2F3Rn6lXm78lGNHpOBTl2K4r%2F9fcf9eaaaf131575f56bd6a8ba29dbdc%2FNormal_Distribution_05.png&w=3840&q=75)
 
