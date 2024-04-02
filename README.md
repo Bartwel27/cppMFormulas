@@ -88,10 +88,12 @@ ellipes(NULL,2,2);
 
 
 ### Installation
+For entire Folder 📂
 ```
 git clone https://github.com/bartwel27/cppMFormulas/
 ```
 _or_
+For file only
 ```
 wget https://bartwel27.github.io/cppMFormulas/mathformulas.cpp
 ```
