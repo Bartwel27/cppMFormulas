@@ -1,5 +1,5 @@
 # cppMFormulas
-A cpp file program filled with math formulas defined in cpp language Functions and returnable values.
+A cpp program filled with math formulas defined in c++ functions and outputs returnable values, parameters are used used to find a value of a formula.
 
 ![image](https://articles.outlier.org/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fkj4bmrik9d6o%2F3Rn6lXm78lGNHpOBTl2K4r%2F9fcf9eaaaf131575f56bd6a8ba29dbdc%2FNormal_Distribution_05.png&w=3840&q=75)
 
