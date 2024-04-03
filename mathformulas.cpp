@@ -19,10 +19,11 @@ double parallelogram(double area, double base, double height){if (area == NULL &
 		
 
 // for Debugging only
- 
+
+/*
 int main(){	
 
 	//cout << rectangle(2,2,2);
 	return 0;	
 }
-
+*/
