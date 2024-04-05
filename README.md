@@ -60,7 +60,7 @@ triangle(null , 2, 4);
 *formula:*
 > A = πr²
 
-The circle function calculates the area of a circle and accepts 2 parametres, the first and last param is ```A`` and ```r²``` respectively to find a value of a parameter we use the ```null``` value.
+The circle function calculates the area of a circle and accepts 2 parametres, the first and last param is ```A``` and ```r²``` respectively to find a value of a parameter we use the ```null``` value.
 ```
 circle(NULL,3);
 ```
