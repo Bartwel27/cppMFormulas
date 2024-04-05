@@ -40,9 +40,9 @@ parallelogram(NULL,2,2);
 *formula:*
 > A = (a+b)h/2
 
-The trapezoid function is a function that calculates the area of a trapezoid, basically is a quadrilateral that has at least one pair of parallel sides. The parallel sides are called the bases of the trapezoid. The trapezoid function takes 4 parameters.
+The trapezoid function is a function that calculates the area of a trapezoid, basically is a quadrilateral that has at least one pair of parallel sides. The parallel sides are called the bases of the trapezoid. The trapezoid function takes 4 parameters and respectively these are ```A```, ```a```, ```b``` and ```h```.
 ```
-trapezoid(NULL,2,3,3);
+trapezoid(null, 2, 3, 3);
 ```
 
 **_triangle function_**
@@ -50,9 +50,9 @@ trapezoid(NULL,2,3,3);
 *formula:*
 > A = 1 / 2 * bh
 
-The triangle function calculates the area of a triangle and takes 3 parameters.
+The triangle function calculates the area of a triangle and takes 3 parameters and respectively these params are ```A```, ```a``` and ```h```. To find the value of a parameter we use the ```null``` value.
 ```
-triangle(NULL,2,4);
+triangle(null , 2, 4);
 ```
 
 **_circle function_**
@@ -60,7 +60,7 @@ triangle(NULL,2,4);
 *formula:*
 > A = πr²
 
-The circle function calculates the area of a circle and accepts 2 parametres.
+The circle function calculates the area of a circle and accepts 2 parametres, the first and last param is ```A`` and ```r²``` respectively to find a value of a parameter we use the ```null``` value.
 ```
 circle(NULL,3);
 ```
@@ -70,9 +70,9 @@ circle(NULL,3);
 *formula:*
 > A = πab
 
-The Ellipse function calculates the area of a ellipse shape, and takes 3 parameters.
+The Ellipse function calculates the area of a ellipse shape, and takes 3 parameters, the first second and third param is ```A```, ```a``` and ```b``` respectively, these paramaters can be found when we use the ```null``` value on a specific parameter.
 ```
-ellipes(NULL,2,2);
+ellipes(null, 2, 2);
 ```
 
 
@@ -94,7 +94,3 @@ git clone https://github.com/bartwel27/cppMFormulas/
 ```
 _or_
 
->file
-```
-wget https://bartwel27.github.io/cppMFormulas/mathformulas.cpp
-```
