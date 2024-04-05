@@ -92,5 +92,8 @@ ellipes(null, 2, 2);
 ```
 git clone https://github.com/bartwel27/cppMFormulas/
 ```
-_or_
+_& include in code_
 
+```
+#include "cppMFormulas/index.cpp"
+```
