@@ -80,10 +80,10 @@ ellipes(null, 2, 2);
 
 
 >[!NOTE]
-> Use ```NULL``` as a parameter to find its value.
+> Use ```null``` as a parameter to find its value.
 
 >[!WARNING]
->Dont give all parameters values of a function to avoid false return outputs, You use the NULL value on a parameter to find a value of a same param.
+>Dont give all parameters values of a function to avoid false return outputs, You use the null value on a parameter to find a value of a same param.
 
 
 
